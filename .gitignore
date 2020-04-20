@@ -1,0 +1,10 @@
+# git ignore these files....
+
+./node_modules/ 
+
+./.cache/
+
+./development/
+
+./dst/
+
